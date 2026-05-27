@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System
+# Hotel Management System 🏨 
 
 A simple **Hotel Management System** developed using **Java**, **JDBC**, and **MySQL** following the **MVC Architecture**.  
 This project helps manage hotel operations such as room booking, check-in/check-out, and reservation handling through a console-based application.

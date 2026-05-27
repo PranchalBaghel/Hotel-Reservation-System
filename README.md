@@ -11,19 +11,19 @@ This project helps manage hotel operations such as room booking, check-in/check-
 -  Reservation Management  
 -  Check-In Facility  
 -  Check-Out Facility   
-- 📋 View Available Rooms  
-- 🏗️ MVC Architecture Implementation  
-- 🔗 Database Connectivity using JDBC  
+-  View Available Rooms  
+-  MVC Architecture Implementation  
+-  Database Connectivity using JDBC  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- ☕ Java  
-- 🗄️ MySQL  
-- 🔌 JDBC  
-- 🧩 MVC Architecture  
-- 💻 Eclipse IDE  
+-  Java  
+-  MySQL  
+-  JDBC  
+-  MVC Architecture  
+-  Eclipse IDE  
 
 ---
 

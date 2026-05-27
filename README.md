@@ -58,7 +58,7 @@ This project was created for learning and practicing:
 
 ---
 
-**Database Schema
+**Database Schema**
 <img width="1180" height="785" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/0a33cc72-f58e-4294-9d94-1603edfb350c" />
 
 ---
